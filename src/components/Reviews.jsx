@@ -4,19 +4,19 @@ function Reviews() {
       id: 1,
       name: "Анна",
       text: "Хожу к мастеру уже полгода — всегда аккуратный маникюр, держится идеально. Очень нравится, что подбирают дизайн под настроение.",
-      avatar: "/images/avatars/anna.jfif", // путь к фото или заглушке
+      avatar: "images/avatars/anna.jfif", // путь к фото или заглушке
     },
     {
       id: 2,
       name: "Марина",
       text: "Впервые попробовала наращивание на верхних формах — результат превзошёл ожидания. Ногти выглядят натурально и совсем не мешают.",
-      avatar: "/images/avatars/marina.jfif",
+      avatar: "images/avatars/marina.jfif",
     },
     {
       id: 3,
       name: "Елена",
       text: "Очень уютная атмосфера и бережное отношение к коже. После SPA-ухода руки стали заметно мягче — теперь это мой любимый ритуал.",
-      avatar: "/images/avatars/elena.png",
+      avatar: "images/avatars/elena.png",
     },
   ];
 
